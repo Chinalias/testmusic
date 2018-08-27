@@ -380,3 +380,4 @@ if (message.content.startsWith(adminprefix + 'playing')) {
 
 });
     
+client.login(process.env.BOT_TOKEN);
